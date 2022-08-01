@@ -1,0 +1,6 @@
+
+d2l/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+d2l/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+*.gz
+d2l/data/FashionMNIST/raw/train-images-idx3-ubyte
+d2l/data/FashionMNIST/raw/train-labels-idx1-ubyte
