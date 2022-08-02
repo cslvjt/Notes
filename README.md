@@ -11,4 +11,7 @@
 数字图像处理
 ### 教材
 + Digital image processing 978-0-13-335672-4
-+ 
+## C++Primer
+学习C++基本知识
+### 教材
++ 《C++ primer plus》
