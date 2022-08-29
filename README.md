@@ -1,5 +1,3 @@
-# update
-
 # Notes
  学习笔记
 ## d2l
