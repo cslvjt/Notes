@@ -1,0 +1,3 @@
+/mnt/t/github/Notes/opencv/chapter02/CMakeFiles/rebuild_cache.dir
+/mnt/t/github/Notes/opencv/chapter02/CMakeFiles/main.dir
+/mnt/t/github/Notes/opencv/chapter02/CMakeFiles/edit_cache.dir
