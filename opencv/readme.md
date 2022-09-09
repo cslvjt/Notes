@@ -8,3 +8,6 @@
 + Canny边缘检测器：https://zhuanlan.zhihu.com/p/334955343
 + 高斯模糊：https://zhuanlan.zhihu.com/p/358910882
 + 膨胀和腐蚀：https://www.cnblogs.com/charlee44/p/10633890.html
+
+# chapter03
+opencv进行图像缩放和裁剪
