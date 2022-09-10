@@ -11,3 +11,10 @@
 
 # chapter03
 opencv进行图像缩放和裁剪
+
+# chapter04
+画圆、画正方形、画线、文字
+
+# chapter05
+图像矫正 
+
