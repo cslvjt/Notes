@@ -16,8 +16,8 @@ int main()
         return 0;
     }
 
-    /*cvtColor(img,imgGray,COLOR_BGR2GRAY); //图像转为灰度图像
-    imwrite("result.png",imgGray);*/
+    cvtColor(img,imgGray,COLOR_BGR2GRAY); //图像转为灰度图像
+    imwrite("result.png",imgGray);
     
     GaussianBlur(img,imgBlur,Size(3,3),3,0); //高斯模糊
     
