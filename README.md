@@ -13,3 +13,8 @@
 学习C++基本知识
 ### 教材
 + 《C++ primer plus》
+
+## opencv
+B站4h上手C++版opencv
+### 教材
++ https://www.bilibili.com/video/BV11A411T7rL

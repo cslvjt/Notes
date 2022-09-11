@@ -18,3 +18,7 @@ opencv进行图像缩放和裁剪
 # chapter05
 图像矫正 
 
+# chapter06
+颜色检测，通过tracebar检测不同颜色的物体。
+
+
